@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/2nd">
+        <file>Resources/inbox.jpg</file>
+        <file>Resources/send.png</file>
+        <file>Resources/send_2.jpg</file>
+    </qresource>
+</RCC>

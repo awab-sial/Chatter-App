@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/3rd">
+        <file>Resources/IMG-20230111-WA0022.jpg</file>
+        <file>Resources/IMG-20230111-WA0023.jpg</file>
+        <file>Resources/IMG-20230111-WA0024.jpg</file>
+        <file>Resources/IMG-20230111-WA0025.jpg</file>
+        <file>Resources/inbox.jpg</file>
+        <file>Resources/pic1.png</file>
+        <file>Resources/send.png</file>
+        <file>Resources/send_2.jpg</file>
+    </qresource>
+</RCC>
