@@ -89,22 +89,22 @@ Chatter-App/
   <img src="Picture1.png" width="500" alt="Signup Page"/>
 </p>
 
-### 🔹 Main Login Window
+### 🔹 Login Window
 <p align="center">
   <img src="Picture2.png" width="500" alt="Login Window"/>
 </p>
 
-### 🔹 After Login Menu
+### 🔹 Dashboard
 <p align="center">
   <img src="Picture3.png" width="500" alt="Post Login Options"/>
 </p>
 
-### 🔹 Send Message Window
+### 🔹 Message Send Window
 <p align="center">
   <img src="Picture4.png" width="500" alt="Send Message"/>
 </p>
 
-### 🔹 Picture Browse Window
+### 🔹 Browse Picture Window
 <p align="center">
   <img src="Picture5.png" width="500" alt="Picture Browse"/>
 </p>
@@ -117,11 +117,9 @@ This project is for educational purposes only as part of the **OOP Semester Proj
 ---
 
 ## 🙌 Acknowledgments
-- **Instructor:** Ma'am Eruf Ashruf  
+- **Instructor:** Ma'am Eruf Ashruf | Sir Burhan Abbasi
 - **Submitted By:**
   - Muhammad Awab Sial (01-134222-091)  
-  - Syed Amber Ali Shah (01-134222-146)  
-  - Muhammad Raza (01-134222-174)  
+  - Syed Amber Ali Shah (01-134222-146)   
 - **Class:** BS-CS 2B  
 - **Session:** Spring 2022  
-- **Date:** June 10, 2023
