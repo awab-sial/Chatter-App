@@ -119,7 +119,8 @@ This project is for educational purposes only as part of the **OOP Semester Proj
 ## 🙌 Acknowledgments
 - **Instructor:** Ma'am Eruf Ashruf | Sir Burhan Abbasi
 - **Submitted By:**
-  - Muhammad Awab Sial (01-134222-091)  
-  - Syed Amber Ali Shah (01-134222-146)   
+  - Muhammad Awab Sial 
+  - Syed Amber Ali Shah
+  - Obaid Ul Haq 
 - **Class:** BS-CS 2B  
 - **Session:** Spring 2022  
